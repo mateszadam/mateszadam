@@ -11,13 +11,11 @@
 
 ---
 
-## 🖼 Featured Projects
-Here are some of the websites I’ve built:
-
-🌐 [**ESK-Ménfőcsanak**](https://www.esk-menfocsanak.hu/) – Sports club website with dynamic content  
-🌐 [**Dr. Gunther Tibor**](http://www.drgunthertibor.hu/) – Professional medical practice site  
-🌐 [**Teltech Informatika Kft.**](http://www.teltech.hu/) – Corporate IT services page  
-🌐 [**Hotel Amarillis**](http://www.hotelamarillis.hu/) – Stylish and user-friendly hotel site with dynamic pricing  
+## 🧑‍💻 Here are some of the websites I’ve built:
+ 🖥️ [**Teltech Informatika Kft.**](http://www.teltech.hu/) – Corporate IT services page  
+ ⚽ [**ESK-Ménfőcsanak**](https://www.esk-menfocsanak.hu/) – Sports club website with dynamic content  
+ 👨‍⚕️ [**Dr. Gunther Tibor**](http://www.drgunthertibor.hu/) – Professional medical practice site  
+ ☎️ [**Hotel Amarillis**](http://www.hotelamarillis.hu/) – Stylish and user-friendly hotel site with dynamic pricing  
 
 ---
 
