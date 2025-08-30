@@ -10,7 +10,7 @@
 > 🖥️ [**Teltech Informatika Kft.**](http://www.teltech.hu/) – Corporate IT services page  
 > ⚽ [**ESK-Ménfőcsanak**](https://www.esk-menfocsanak.hu/) – Sports club website with dynamic content  
 > 👨‍⚕️ [**Dr. Gunther Tibor**](http://www.drgunthertibor.hu/) – Professional medical practice site  
-> ☎️ [**Hotel Amarillis**](http://www.hotelamarillis.hu/) – Stylish and user-friendly hotel site with dynamic pricing  
+> ☎️ [**Hotel Amarillis**](http://www.hotelamarillis.hu/) – Stylish, user-friendly hotel site with adjustable pricing
 <br>
 
 ## 🛠 Tech Stack
